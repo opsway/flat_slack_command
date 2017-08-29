@@ -1,0 +1,13 @@
+{
+  "SLACK_TOKEN": "<SLACK_TOKEN>",
+  "CALENDARS": [
+    {
+      "name": "<NAME_CALENDAR_1>",
+      "id": "<ID_CALENDAR_1>"
+    },
+    {
+      "name": "<NAME_CALENDAR_2>",
+      "id": "<ID_CALENDAR_1>"
+    }
+  ]
+}
